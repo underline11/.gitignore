@@ -10,3 +10,7 @@ elif nota >= 5
     classificacao = "suficiente"
 else:
     classificacao = "insuficiente"
+
+# exibição da classificação
+print(f"A nota é classificada como: {classificacao}"
+
